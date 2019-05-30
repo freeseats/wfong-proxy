@@ -16,6 +16,11 @@ body {
   margin-top: 15px;
 }
 
+#reservations {
+  position: relative;
+  top: 8px;
+}
+
 #menu {
   position: relative;
   top: 200px;
