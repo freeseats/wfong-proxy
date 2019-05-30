@@ -18,9 +18,9 @@
 
 ## Usage
 
-- Go to each related projects repo in the client folder
+- Go to each related projects repo and clone it down
 - In each component's root directory, follow the instructions on the ReadMe
-
+- Go to proxy root's directory: npm start
 - Go to localhost:3000 in a browser
 
 ## Requirements

@@ -11,3 +11,24 @@
 body {
   font-family: Brandon;
 }
+
+#photos {
+  margin-top: 15px;
+}
+
+#menu {
+  position: relative;
+  top: 200px;
+  right: 85px;
+}
+
+#reviews {
+  position: relative;
+  top: 450px;
+  left: 215px;
+}
+
+#footer {
+  position: relative;
+  margin-top: 330px;
+}
