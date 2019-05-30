@@ -29,13 +29,13 @@ body {
   right: 165px;
 }
 
-/* #reviews {
+#reviews {
   position: relative;
-  top: 450px;
-  left: 215px;
-} */
+  top: 1030px;
+  left: 238px;
+}
 
 #footer {
   position: relative;
-  margin-top: 330px;
+  top: 1020px;
 }
