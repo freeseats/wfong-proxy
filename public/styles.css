@@ -19,11 +19,13 @@ body {
 #reservations {
   position: relative;
   top: 8px;
+  width: 0;
+  height: 0;
 }
 
 #menuAndRelated {
   position: relative;
-  top: 750px;
+  top: 1050px;
   right: 165px;
 }
 
