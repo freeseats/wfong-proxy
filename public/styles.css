@@ -21,17 +21,17 @@ body {
   top: 8px;
 }
 
-#menu {
+#menuAndRelated {
   position: relative;
-  top: 200px;
-  right: 85px;
+  top: 750px;
+  right: 165px;
 }
 
-#reviews {
+/* #reviews {
   position: relative;
   top: 450px;
   left: 215px;
-}
+} */
 
 #footer {
   position: relative;
